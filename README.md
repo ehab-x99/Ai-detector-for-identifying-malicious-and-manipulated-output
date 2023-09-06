@@ -1,4 +1,4 @@
-# Auditing-Auditor
+# Ai detector for identifying malicious and manipulated output (LLMs)
 The main purpose of this project is to classify the output of  LLMs or any Language model into Malicious or Benign. We aim to be sure that, all the Large Language models developed in Saudi Arabia fits the seven AI ethics principles of SDAIA which are fairness, privacy & security, humanity, social & environmental benefits, reliability & safety, transparency & explainability, and accountability & responsibility. 
 
 The following image describe the Workflow of the first version of the project.
